@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+# Block unnecessary system or temp folders (if any)
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Disallow: /admin/
+
+# Sitemap location
+Sitemap: https://nabinbadu.com.np/sitemap.xml
